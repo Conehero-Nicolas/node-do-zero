@@ -2,6 +2,7 @@ API de Vídeos com Node.js e Fastify
 Este é um projeto simples de uma API RESTful para cadastro de vídeos, desenvolvido em Node.js utilizando o framework Fastify. A aplicação permite operações de CRUD (Criar, Ler, Atualizar e Deletar) para vídeos, com a opção de persistência de dados em um banco de dados PostgreSQL (utilizando Neon) ou em memória.
 
 Funcionalidades
+
 Criação de vídeos: Adicione novos vídeos à base de dados.
 
 Listagem de vídeos: Obtenha uma lista de todos os vídeos cadastrados.
@@ -13,6 +14,7 @@ Atualização de vídeos: Modifique as informações de um vídeo existente.
 Exclusão de vídeos: Remova um vídeo da base de dados.
 
 Tecnologias Utilizadas
+
 Backend: Node.js
 
 Framework: Fastify
